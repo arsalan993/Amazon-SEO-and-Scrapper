@@ -1,0 +1,11 @@
+obj_js[cat_name]["Product"][asin] = {}
+obj_js[cat_name]["Product"][asin]["Title"] =''
+obj_js[cat_name]["Product"][asin]["Title"] = $(nocat_link).find("img").attr('alt');
+obj_js[cat_name]["Product"][asin]["url"] =''
+obj_js[cat_name]["Product"][asin]["url"] = "https://www.amazon.com" + $(nocat_link).attr('href');
+obj_js[cat_name]["Product"][asin]["img"] =''
+obj_js[cat_name]["Product"][asin]["img"] = $(nocat_link).find("img").attr('src');
+obj_js[cat_name]["Product"][asin]["feature"] =''
+obj_js[cat_name]["Product"][asin]["feature"] = $(nocat_link).find("img").attr('alt');
+obj_js[cat_name]["Product"][asin]["frequent word"] = '';
+obj_js[cat_name]["Product"][asin]["keyword"] = '';

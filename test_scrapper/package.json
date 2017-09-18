@@ -1,0 +1,33 @@
+{
+  "name": "test_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "array-to-sentence": "^1.1.0",
+    "browser": "^0.2.6",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.2.1",
+    "js-combinatorics": "^0.5.2",
+    "mongod": "^2.0.0",
+    "mongoose": "^4.11.11",
+    "natural": "^0.5.4",
+    "promise": "^8.0.1",
+    "req-fast": "^0.2.17",
+    "request": "^2.81.0",
+    "request-enhanced": "^0.1.1",
+    "sorto": "0.0.2",
+    "window-slider": "^0.3.1",
+    "wink-nlp-utils": "^1.2.1",
+    "word-freq": "0.0.8",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
