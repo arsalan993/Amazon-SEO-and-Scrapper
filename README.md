@@ -1,4 +1,4 @@
-# Amazon_Scrapper
+# Amazon SEO and Scrapper
 This project scrap details from prodcuts listed in Amazon Best Seller Category. 
 Details related to text from page,  product related urls, ASIN and title. 
 They we perform natural language processing to extract frequent keyword and later meta keyword.
